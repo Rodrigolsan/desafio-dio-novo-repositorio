@@ -1,2 +1,2 @@
-# desafio-dio-novo-repositorio
-Desafio da DIO para Criação de um Repositório
+# Desafio de Projeto Git/GitHub
+Repositório criado para o desafio de Projeto da DIO
